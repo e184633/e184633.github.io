@@ -40,7 +40,20 @@ Welcome to my webpage! I'm a researcher and quantitative strategist with a passi
 ## 🧩 Fun Facts
 
 - I enjoy cryptic crosswords 🧠, the game "What? Where? When?" 🕵️‍♀️, cycling 🚴‍♀️, and tango 💃.
-- Currently building **FarAway Adventures** — a global booking platform for adventure activities.
+
+<summary>🗺️ Explore My Travels</summary>
+
+### 🧊 Antarctica  
+[View on Google Maps](https://www.google.com/maps/d/edit?mid=1go2gIXD9bnd13Mbq0DAo7Hq7OStpEWI&usp=sharing)  
+<img src="IMG_0489.HEIC" width="400" alt="Antarctica photo" />
+
+---
+
+### 🇳🇿 New Zealand  
+[View on Google Maps](https://www.google.com/maps/d/edit?mid=17hHkCBS_Zc9MviAbZKbarx8kKp-0XN8&usp=sharing)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mount_Cook%2C_New_Zealand.jpg/640px-Mount_Cook%2C_New_Zealand.jpg" width="400" alt="New Zealand photo" />
+
+</details>
 
 ---
 
